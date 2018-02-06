@@ -1,0 +1,5 @@
+import pandas as pd
+d=pd.Series[range(20)]
+
+a=pd.Series([7,6,2,6],index=['a','b','c','d'])
+print(a)
